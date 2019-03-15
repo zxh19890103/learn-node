@@ -1,0 +1,22 @@
+{
+  "name": "nodejsschool",
+  "version": "1.0.0",
+  "description": "Node school",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxh19890103/nodejsschool.git"
+  },
+  "author": "Singhi John",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zxh19890103/nodejsschool/issues"
+  },
+  "homepage": "https://github.com/zxh19890103/nodejsschool#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
